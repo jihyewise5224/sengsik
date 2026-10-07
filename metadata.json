@@ -1,0 +1,6 @@
+{
+  "name": "하루생식 - 간편하고 든든한 50곡 생식",
+  "description": "국내산 50가지 자연 곡물과 채소로 만든 순수 동결건조 생식. 하루 한 잔, 간편하고 속 편안한 한 끼 식사 대용식 소개 및 주문 페이지입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
